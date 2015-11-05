@@ -1,0 +1,15 @@
+{
+	"AS_Segment_94fcca27069b4c339582b0004efcdc28": {
+		"id": "AS_Segment_94fcca27069b4c339582b0004efcdc28",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmTaskResourcesSegOnClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onRowClick_2690ec4f9c1c491ea8eea0dd891058df",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "3a05ad506e3e41ec8de8a2b9612e4a2f",
+				"parentId": ""
+			}
+		]
+	}
+}

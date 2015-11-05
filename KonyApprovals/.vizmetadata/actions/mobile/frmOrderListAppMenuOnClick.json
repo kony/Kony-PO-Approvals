@@ -1,0 +1,14 @@
+{
+	"AS_Button_123cce0c83c74b7b9f4f4bc3694f461c": {
+		"id": "AS_Button_123cce0c83c74b7b9f4f4bc3694f461c",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderListAppMenuOnClick",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_a175c9b7007b4be3842b51ad130b1c15",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "showHideHamburgerMenuKA();"
+			}
+		]
+	}
+}

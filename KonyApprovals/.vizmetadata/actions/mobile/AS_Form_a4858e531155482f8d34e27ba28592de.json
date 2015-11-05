@@ -1,0 +1,15 @@
+{
+	"AS_Form_a4858e531155482f8d34e27ba28592de": {
+		"id": "AS_Form_a4858e531155482f8d34e27ba28592de",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__2f743641820a4a548ef91ffd43fe6663",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "\nfrmPurchaseOrderlListKA.segOrderListKA.removeAt(0,0);\nfrmPurchaseOrderlListKA.segOrderListKA.removeAt(0,1);\nfrmPurchaseOrderlListKA.segOrderListKA.removeAt(0,2);\ngetApprovals();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

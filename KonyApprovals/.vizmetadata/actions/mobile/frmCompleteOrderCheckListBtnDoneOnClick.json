@@ -1,0 +1,15 @@
+{
+	"AS_Button_86f2e836e72f4b69a422630dabff2e7c": {
+		"id": "AS_Button_86f2e836e72f4b69a422630dabff2e7c",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmCompleteOrderCheckListBtnDoneOnClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_027f2be141f74eb29ef900eab9a55c70",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "d945cb2ff16f4224b0c465cc24ba0536",
+				"parentId": ""
+			}
+		]
+	}
+}

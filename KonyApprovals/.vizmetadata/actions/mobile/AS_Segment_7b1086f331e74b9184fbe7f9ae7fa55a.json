@@ -1,0 +1,15 @@
+{
+	"AS_Segment_7b1086f331e74b9184fbe7f9ae7fa55a": {
+		"id": "AS_Segment_7b1086f331e74b9184fbe7f9ae7fa55a",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__3989f16b61754fc89db1e38d466a800a",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var segment = frmRequestExecutionKA.segDetailsKA.selectedRowIndex[0];\nvar row = frmRequestExecutionKA.segDetailsKA.selectedRowIndex[1];\n//alert(frmRequestExecutionKA.segDetailsKA.selectedItems[0].lblTypeKA);\npo_item = frmRequestExecutionKA.segDetailsKA.selectedItems[0].lblTypeKA;\nitemDetails(po_item);",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

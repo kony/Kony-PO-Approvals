@@ -1,0 +1,14 @@
+{
+	"AS_Button_a21b91de26ae4703803968c3e05328e5": {
+		"id": "AS_Button_a21b91de26ae4703803968c3e05328e5",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmMyNotificationBtnMapOnClick",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_46b765a76c5742d3829538400fac9045",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmMyNotificationListKA.btnMapShowKA.skin=sknBtnFFFFFFClanProNews28BackgroundFF5D6EKA\nfrmMyNotificationListKA.btnListNotificationsKA.skin=sknBtnFF5D6EClanProNews28BackgroundFFFFFFKA\nfrmMyNotificationListKA.segNotificationsListKA.setVisibility(false);\nfrmMyNotificationListKA.mapMyNotificationsListKA.setVisibility(true);"
+			}
+		]
+	}
+}

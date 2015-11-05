@@ -1,0 +1,15 @@
+{
+	"AS_Image_025ade2a693044ffad79d11f68e34ba5": {
+		"id": "AS_Image_025ade2a693044ffad79d11f68e34ba5",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmContactDetailsCallKA",
+		"actions": [
+			{
+				"id": "SEND_SMS_onTouchStart_378480e09c0c40bb8c55c76c7ba24ac8",
+				"type": "SEND_SMS",
+				"phoneNumber": "8319823456",
+				"message": "Your order is recieved"
+			}
+		]
+	}
+}

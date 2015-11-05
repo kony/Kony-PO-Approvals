@@ -1,0 +1,10 @@
+function frmOrderListKAbtnListKAclick() {
+return AS_Button_d45dd2e7cdd34fa0b0eabb13621967e4();
+}
+function AS_Button_d45dd2e7cdd34fa0b0eabb13621967e4() {
+frmOrderListKA.btnMapShowKA.skin=sknBtnFF5D6EClanProNews28BackgroundFFFFFFKA
+frmOrderListKA.btnListOrderKA.skin=sknBtnFFFFFFClanProNews28BackgroundFF5D6EKA
+frmOrderListKA.segOrderListKA.setVisibility(true);
+frmOrderListKA.mapMyOrderListKA.setVisibility(false);
+
+}

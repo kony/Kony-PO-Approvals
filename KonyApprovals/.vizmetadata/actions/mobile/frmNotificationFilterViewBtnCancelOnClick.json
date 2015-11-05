@@ -1,0 +1,15 @@
+{
+	"AS_Button_92de3d715b904567aa4aff807c93c3ae": {
+		"id": "AS_Button_92de3d715b904567aa4aff807c93c3ae",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmNotificationFilterViewBtnCancelOnClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_7b5577f435e84bed9b843a2e01b2275c",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "50dcd5487c0548a3b190e2f2d9e7e374",
+				"parentId": ""
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"AS_FlexContainer_57bf90474ad74f129b47a557b87c7422": {
+		"id": "AS_FlexContainer_57bf90474ad74f129b47a557b87c7422",
+		"type": "ACTION_SEQUENCE",
+		"name": "WOHamburgerMenu1OnClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchEnd_da7d0779ac684776ace3d9ba16570c47",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "50dcd5487c0548a3b190e2f2d9e7e374",
+				"parentId": ""
+			}
+		]
+	}
+}

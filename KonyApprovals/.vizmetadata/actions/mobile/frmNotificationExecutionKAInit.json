@@ -1,0 +1,14 @@
+{
+	"AS_Form_ff535ac8bcc448b68f968e1d069bd75d": {
+		"id": "AS_Form_ff535ac8bcc448b68f968e1d069bd75d",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmNotificationExecutionKAInit",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_9236d6747b6349c0961e6264eba97779",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var notificationDetailsKA = function(){\n      frmNotificationDetailsKA.show();\n};\n\nvar notificationHistoryKA = function(){\n                alert(\"Not in current release\");\n    };\n\nvar notificationAttachmentKA = function(){\n                alert(\"Not in current release\");\n};\n\nvar notificationPhotosKA = function(){\n                alert(\"Not in current release\");\n};\n\n\n\nvar widgets=[\n\n{\"src\" : \"notification_execution_details.png\",\"ontouch\":notificationDetailsKA},\n{\"src\" : \"notification_execution_history.png\",\"ontouch\":notificationHistoryKA},\n{\"src\" : \"notification_execution_attachments.png\",\"ontouch\":notificationAttachmentKA},\n{\"src\" : \"notification_execution_photos.png\",\"ontouch\":notificationPhotosKA},\n\n];\n\n\n\naddToScroll(frmNotificationExecutionKA,\"flxScrllSubMenuKA\",widgets);"
+			}
+		]
+	}
+}

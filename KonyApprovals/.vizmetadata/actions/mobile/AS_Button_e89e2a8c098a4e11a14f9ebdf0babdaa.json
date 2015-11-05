@@ -1,0 +1,13 @@
+{
+	"AS_Button_e89e2a8c098a4e11a14f9ebdf0babdaa": {
+		"id": "AS_Button_e89e2a8c098a4e11a14f9ebdf0babdaa",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_b929223b68c24b0284582ed5a78becb7",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "showHideHamburgerMenuKA();"
+			}
+		]
+	}
+}

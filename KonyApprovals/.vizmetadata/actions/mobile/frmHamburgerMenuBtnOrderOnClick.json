@@ -1,0 +1,14 @@
+{
+	"AS_FlexContainer_711d582312bb4d8cbf5c5ce7d4e2f633": {
+		"id": "AS_FlexContainer_711d582312bb4d8cbf5c5ce7d4e2f633",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmHamburgerMenuBtnOrderOnClick",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onTouchEnd_8aef1da658a848c2a9871ed453aed343",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "showHideHamburgerMenuKA();"
+			}
+		]
+	}
+}

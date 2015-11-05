@@ -1,0 +1,14 @@
+{
+	"AS_Form_020cc9b38a55475cb4fe25ac2f44269e": {
+		"id": "AS_Form_020cc9b38a55475cb4fe25ac2f44269e",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmMyNotificationListKAInit",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_591bbcffe29443899a640824183a06f2",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "isMenuShown = false;"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"AS_Button_cec60fd988834489ac34226587d16866": {
+		"id": "AS_Button_cec60fd988834489ac34226587d16866",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmCompleteOrderLayerKAbtnCloseKAonClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchStart_e426b3b4e624411da6f94d61508e116c",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "3a05ad506e3e41ec8de8a2b9612e4a2f",
+				"parentId": ""
+			}
+		]
+	}
+}

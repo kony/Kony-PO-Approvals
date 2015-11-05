@@ -1,0 +1,15 @@
+{
+	"AS_Button_3d25b505dfb64618a5a93a589710b57f": {
+		"id": "AS_Button_3d25b505dfb64618a5a93a589710b57f",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmNotificationDetailsbtnBackonClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_f632639a9a894158825c00e6aec90eb7",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "c1b15012f7fc42d6b201c1aa22247031",
+				"parentId": ""
+			}
+		]
+	}
+}

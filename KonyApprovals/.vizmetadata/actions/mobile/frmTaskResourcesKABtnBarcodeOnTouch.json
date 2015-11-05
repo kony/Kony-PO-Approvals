@@ -1,0 +1,15 @@
+{
+	"AS_Image_af225e56e05c434ea39703b15cebd090": {
+		"id": "AS_Image_af225e56e05c434ea39703b15cebd090",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmTaskResourcesKABtnBarcodeOnTouch",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchStart_fb6391683ed14efdb38fd4b16706fb82",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "07cf755dccf94e5faf810788d8afd8b9",
+				"parentId": ""
+			}
+		]
+	}
+}

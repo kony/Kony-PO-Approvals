@@ -1,0 +1,14 @@
+{
+	"AS_Form_2e2ac0d232484b6ab676dd40a2ebe183": {
+		"id": "AS_Form_2e2ac0d232484b6ab676dd40a2ebe183",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmResourceExecutionInit",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_25e37d762c484bce8e98de243f8f9e2f",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var orderResourceDetailsKA = function(){\n      frmOrderResourceDetailsKA.show();\n};\n\nvar stockDetailsKA = function(){\n                alert(\"not implemented in current release\");\n}\n\nvar attachmentKA = function(){\n                // write your code here\n  frmOrderAttachmentsKA.show();\n}\n\nvar attachPhotoKA = function(){\n                alert(\"not implemented in current release\");\n}\n\nvar widgets=[\n{\"src\" : \"bf_details.png\",\"ontouch\": orderResourceDetailsKA},\n{\"src\" : \"bf_resource_ex_stock_info.png\",\"ontouch\": stockDetailsKA },\n{\"src\" : \"bf_order_ex_attachments.png\",\"ontouch\":attachmentKA},\n{\"src\" : \"notification_add_photo.png\",\"ontouch\": attachPhotoKA }\n];\n\n\naddToScroll(frmResourceExecutionKA,\"FlexScrollContainerOptionsKA\",widgets);"
+			}
+		]
+	}
+}

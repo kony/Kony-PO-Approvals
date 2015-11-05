@@ -1,0 +1,14 @@
+{
+	"AS_Image_91aed56f69664caab0d96a12db09829e": {
+		"id": "AS_Image_91aed56f69664caab0d96a12db09829e",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchStart_5201bdc44f684a5ca85c3436ee2f34e3",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "1de31f0733024071968697f3e84297cb",
+				"parentId": ""
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"AS_FlexContainer_43c85bdc2601402bac82b7c76d5ff53e": {
+		"id": "AS_FlexContainer_43c85bdc2601402bac82b7c76d5ff53e",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderDetailsFlexContactOnTouch",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchStart_9525c2038f304baa838ed91aeaa0ff17",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "280e9812f64a4662af70baa98b2bac9b",
+				"parentId": ""
+			}
+		]
+	}
+}

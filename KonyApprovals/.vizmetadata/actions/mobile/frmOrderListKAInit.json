@@ -1,0 +1,14 @@
+{
+	"AS_Form_6d6e5588f6b34703b27f0078b3e6954d": {
+		"id": "AS_Form_6d6e5588f6b34703b27f0078b3e6954d",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderListKAInit",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_cf50a2dc120f490cbccc42763bee4188",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "isMenuShown = false;"
+			}
+		]
+	}
+}

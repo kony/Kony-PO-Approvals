@@ -1,0 +1,8 @@
+{
+	"AS_Button_1518281eaa124b4f9ac491f0cceb0fdc": {
+		"id": "AS_Button_1518281eaa124b4f9ac491f0cceb0fdc",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderListKABtnFilterView",
+		"actions": []
+	}
+}

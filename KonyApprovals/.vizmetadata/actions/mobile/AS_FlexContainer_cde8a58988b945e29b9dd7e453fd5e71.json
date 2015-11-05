@@ -1,0 +1,13 @@
+{
+	"AS_FlexContainer_cde8a58988b945e29b9dd7e453fd5e71": {
+		"id": "AS_FlexContainer_cde8a58988b945e29b9dd7e453fd5e71",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onTouchStart_56e2f30ebb6941bfaa9eea645f3019b9",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmAddNotificationKA.FlxscrllLocationKA\n.setVisibility(true);\nfrmAddNotificationKA.flxProbDescKA\n.setVisibility(false);\nfrmAddNotificationKA.flxAttachPhotoKA\n.setVisibility(false);\nfrmAddNotificationKA.flxScrllAddNotificationDetailsKA\n.setVisibility(false);"
+			}
+		]
+	}
+}

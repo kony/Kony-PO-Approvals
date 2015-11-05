@@ -1,0 +1,13 @@
+{
+	"AS_Form_76d415def43545dca195407b0694aabc": {
+		"id": "AS_Form_76d415def43545dca195407b0694aabc",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_a11f8b65984347798adc48e6704dd107",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var orderResourceDetailsKA = function(){\n  frmOrderResourceDetailsKA.show();\n};\n\nvar resourecAttachmentDetailsKA = function(){\n  frmOrderAttachmentsKA.show();\n};\n\nvar dummyFunctionKA = function(){\n\talert(\"not implemented in this release\");\n};\n\n\nvar widgets=[\n{\"src\" : \"bf_details.png\",\"ontouch\":orderResourceDetailsKA},\n{\"src\" : \"bf_resource_ex_stock_info.png\",\"ontouch\": dummyFunctionKA},\n{\"src\" : \"bf_order_ex_attachments.png\",\"ontouch\":resourecAttachmentDetailsKA},\n{\"src\" : \"notification_add_photo.png\",\"ontouch\":dummyFunctionKA}\n];\n\n\naddToScroll(frmResourceExecutionKA,\"FlexScrollContainerOptionsKA\",widgets);"
+			}
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"AS_Button_3dc6960c0147477683333d60963dbf19": {
+		"id": "AS_Button_3dc6960c0147477683333d60963dbf19",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_1339d711fdc041f2b898950a4f754418",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "configureLayerFilterKA();\nfunction configureLayerFilterKA(){\n  \tvar flexRef  = frmTaskViewFiltersKA.flxMainKA;\n    if(flexRef){\n        flexRef.removeFromParent();\n    }\n    frmTaskResourcesKA.add(flexRef);\n\n    frmTaskResourcesKA.flxMainKA.animate(getAnimationObject(),animConfig(),{animationStart:function(){},animationEnd:endCallBack});\n    function getAnimationObject(){\n        var animDefinition = {\"100\" :{ \"right\":\"83%\"}};\n        animDef = kony.ui.createAnimation(animDefinition);\n        return animDef;\n    };\n\n    function animConfig(){\n        var config = {\n           \"duration\":10,\n           \"iterationCount\":1,\n           \"delay\":2,\n           \"fillMode\":kony.anim.FILL_MODE_FORWARDS\n        };\n        return config;\n    }\n\n    function endCallBack(){\n\n    }\n    frmTaskResourcesKA.flxMainKA.zIndex = 20;\n    frmTaskResourcesKA.flxContainerTaskResourcesKA.zIndex = 1;\n\n}"
+			}
+		]
+	}
+}

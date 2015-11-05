@@ -1,0 +1,13 @@
+{
+	"AS_Form_7cc2b597690d4100ad229f9791fb3290": {
+		"id": "AS_Form_7cc2b597690d4100ad229f9791fb3290",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_0cb1a9bad7fa499f9c07bfc3226ce4c7",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "/*var widgets=[\n{\"src\" : \"order.png\",\"ontouch\":\"resources\"},\n{\"src\" : \"attchments_file.png\",\"ontouch\":\"attachments\"},\n{\"src\" : \"files.png\",\"ontouch\":\"resources\"},\n{\"src\" : \"text.png\",\"ontouch\":\"resources\"},\n{\"src\" : \"pdf.png\",\"ontouch\":\"resources\"},\n{\"src\" : \"word.png\",\"ontouch\":\"attachments\"}\n];\n\n\naddToScroll(frmOrderExecutionKA,\"flxScrollTypesKA\",widgets);*/"
+			}
+		]
+	}
+}

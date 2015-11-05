@@ -1,0 +1,13 @@
+{
+	"AS_Form_b6c8125d36334f078ce10ba79478ded9": {
+		"id": "AS_Form_b6c8125d36334f078ce10ba79478ded9",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_c2c8f806933142e8b61a0d0644203f19",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "isMenuShown = false;"
+			}
+		]
+	}
+}

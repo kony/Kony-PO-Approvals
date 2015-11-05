@@ -1,0 +1,13 @@
+{
+	"AS_Image_6680a78a9bff4ec696955abd1f6ffa5e": {
+		"id": "AS_Image_6680a78a9bff4ec696955abd1f6ffa5e",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onTouchEnd_30f81c53fb5049cf8165c6177f67a450",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "showHideHamburgerMenuKA();"
+			}
+		]
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"AS_Segment_988bf1419a784bdfb7f436f5b03aaefa": {
+		"id": "AS_Segment_988bf1419a784bdfb7f436f5b03aaefa",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderListSegOnClick",
+		"actions": []
+	}
+}

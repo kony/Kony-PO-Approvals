@@ -1,0 +1,14 @@
+{
+	"AS_Form_8377004e77624c938733b4da20022bea": {
+		"id": "AS_Form_8377004e77624c938733b4da20022bea",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmCompleteOrderInit",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_c8a3a12d10324027b9d7e6cc7b5d5f42",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var orderDetailsKA = function(){\n      frmCompleteOrderSummaryKA.show();\n};\n\nvar orderattachmentsKA = function(){\n      frmOrderAttachmentsKA.show();\n}\n\nvar orderResourcesListKA = function(){\n      frmOrderResourcesListKA.show();\n                \n}\nvar completeOrderKA = function(){\n      alert(\"Not implemented in current release\");\n}\n\nvar widgets=[\n{\"src\" : \"bf_details.png\",\"ontouch\":orderDetailsKA},\n{\"src\" : \"bf_order_ex_attachments.png\",\"ontouch\":orderattachmentsKA},\n{\"src\" : \"bf_order_ex_history.png\",\"ontouch\":completeOrderKA},\n{\"src\" : \"bf_resources.png\",\"ontouch\":orderResourcesListKA}\n];\n\n\naddToScroll(frmCompleteOrderKA,\"flxScrollTypesKA\",widgets);"
+			}
+		]
+	}
+}

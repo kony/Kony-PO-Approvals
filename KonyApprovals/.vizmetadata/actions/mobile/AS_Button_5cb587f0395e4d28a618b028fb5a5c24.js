@@ -1,0 +1,7 @@
+function AS_Button_5cb587f0395e4d28a618b028fb5a5c24() {
+frmOrderListKA.btnMapShowKA.skin=sknBtnFFFFFFClanProNews28BackgroundFF5D6EKA
+frmOrderListKA.btnListOrderKA.skin=sknBtnFF5D6EClanProNews28BackgroundFFFFFFKA
+frmOrderListKA.segOrderListKA.setVisibility(false);
+frmOrderListKA.mapMyOrderListKA.setVisibility(true);
+
+}

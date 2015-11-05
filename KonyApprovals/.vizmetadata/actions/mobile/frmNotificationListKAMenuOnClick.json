@@ -1,0 +1,14 @@
+{
+	"AS_Button_54221445441d4c84a6c86a14d873ebcd": {
+		"id": "AS_Button_54221445441d4c84a6c86a14d873ebcd",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmNotificationListKAMenuOnClick",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_d90178d9d0e9455f917652f7f5eff0d3",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "if(!isMenuShown){\n    \tvar menuFlexRef  = frmHamburgerMenuNotifKA.flexMenuContainerKA;\n    if(menuFlexRef){\n        menuFlexRef.removeFromParent();\n    }\n    frmMyNotificationListKA.add(menuFlexRef);\n    frmMyNotificationListKA.flexMenuContainerKA.animate(getAnimationObject(),animConfig(),{animationStart:function(){},animationEnd:endCallBack});\n    function getAnimationObject(){\n        var animDefinition = {\"100\" :{ \"left\":\"0%\"}};\n        animDef = kony.ui.createAnimation(animDefinition);\n        return animDef;\n    };\n\n    function animConfig(){\n        var config = {\n           \"duration\":10,\n           \"iterationCount\":1,\n           \"delay\":2,\n           \"fillMode\":kony.anim.FILL_MODE_FORWARDS\n        };\n        return config;\n    }\n\n    function endCallBack(){\n      frmMyNotificationListKA.flexNotificationHeaderKA.right = \"-80%\";\n      isMenuShown = true;\n    } \t\n    \n  }else{\n    var menuRef = frmMyNotificationListKA.flexMenuContainerKA;\n    menuRef.removeFromParent();\n    frmHamburgerMenuNotifKA.add(menuRef);\n    frmMyNotificationListKA.flexNotificationHeaderKA.right = \"0%\";\n    isMenuShown = false;\n  }"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"AS_FlexContainer_9bbf6467da02470c946fd9cd1abeb120": {
+		"id": "AS_FlexContainer_9bbf6467da02470c946fd9cd1abeb120",
+		"type": "ACTION_SEQUENCE",
+		"name": "HamburgerNotificationMenuAddNotificationOnClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchStart_ffe223dfd85c43bcb8f6c64d30edec2a",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "1a2fed8557284db2965b04af84b69153",
+				"parentId": ""
+			}
+		]
+	}
+}

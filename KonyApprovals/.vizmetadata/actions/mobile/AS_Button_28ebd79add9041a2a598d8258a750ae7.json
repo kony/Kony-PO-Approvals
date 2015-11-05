@@ -1,0 +1,15 @@
+{
+	"AS_Button_28ebd79add9041a2a598d8258a750ae7": {
+		"id": "AS_Button_28ebd79add9041a2a598d8258a750ae7",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__45444698f3044ae29d6209484f7ff720",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "approvePO();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

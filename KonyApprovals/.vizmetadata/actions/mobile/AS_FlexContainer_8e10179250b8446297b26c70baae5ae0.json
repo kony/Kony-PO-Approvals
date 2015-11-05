@@ -1,0 +1,14 @@
+{
+	"AS_FlexContainer_8e10179250b8446297b26c70baae5ae0": {
+		"id": "AS_FlexContainer_8e10179250b8446297b26c70baae5ae0",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchEnd_5b5314e1db634c49a6af8c580abac4fa",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "c3c142b02261498a8ae5a20fbff4a549",
+				"parentId": ""
+			}
+		]
+	}
+}

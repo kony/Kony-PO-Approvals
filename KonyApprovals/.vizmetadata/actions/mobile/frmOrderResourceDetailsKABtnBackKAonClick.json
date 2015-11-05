@@ -1,0 +1,15 @@
+{
+	"AS_Button_e7f606a2e495416a9fbe2eaf984cbe7a": {
+		"id": "AS_Button_e7f606a2e495416a9fbe2eaf984cbe7a",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderResourceDetailsKABtnBackKAonClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_50cd3c06ed1d4bb58ea7573225956463",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "3a05ad506e3e41ec8de8a2b9612e4a2f",
+				"parentId": ""
+			}
+		]
+	}
+}

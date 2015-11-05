@@ -1,0 +1,15 @@
+{
+	"AS_Button_aca3781673ee49329af14b77d09ac476": {
+		"id": "AS_Button_aca3781673ee49329af14b77d09ac476",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderListKABtnFilterViewKA",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_9ab4744ea77149668b62d84e0d66ce80",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "d10fa7c51f144812af5a3cd5adc66a49",
+				"parentId": ""
+			}
+		]
+	}
+}

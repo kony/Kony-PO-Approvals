@@ -1,0 +1,14 @@
+{
+	"AS_Button_f00b5455d7a44f35a077454857c8b392": {
+		"id": "AS_Button_f00b5455d7a44f35a077454857c8b392",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmCompleteOrderBtndoneKA",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_dbba63df2ed249f3884dc956960c03d0",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "configureLayerKA();"
+			}
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"AS_Form_efe9f7da28494ac58f4e5d0ef5000ecf": {
+		"id": "AS_Form_efe9f7da28494ac58f4e5d0ef5000ecf",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_652f4b8fd18c4d2cb31fde93b75431aa",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var widgets=[\n{\"src\" : \"notification_execution_details.png\",\"ontouch\":\"Details\"},\n{\"src\" : \"bf_order_ex_attachments.png\",\"ontouch\":\"attachments\"},\n{\"src\" : \"files.png\",\"ontouch\":\"resources\"},\n{\"src\" : \"text.png\",\"ontouch\":\"resources\"},\n{\"src\" : \"pdf.png\",\"ontouch\":\"resources\"},\n{\"src\" : \"word.png\",\"ontouch\":\"attachments\"}\n];\n\n\nvar orderResourceDetailsKA = function(){\n      frmOrderResourceDetailsKA.show();\n};\n\nvar stockDetailsKA = function(){\n                //  write your code here\n}\n\nvar attachmentKA = function(){\n                \n}\n"
+			}
+		]
+	}
+}

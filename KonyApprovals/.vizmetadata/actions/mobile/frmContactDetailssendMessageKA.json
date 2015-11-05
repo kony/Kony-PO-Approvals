@@ -1,0 +1,15 @@
+{
+	"AS_Image_7bfd83f7af414e149763b4ec06f428e6": {
+		"id": "AS_Image_7bfd83f7af414e149763b4ec06f428e6",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmContactDetailssendMessageKA",
+		"actions": [
+			{
+				"id": "SEND_SMS_onTouchStart_18fe4d10ef514b43b57226be533d5aa2",
+				"type": "SEND_SMS",
+				"phoneNumber": "987654289",
+				"message": "Your order has been recieved"
+			}
+		]
+	}
+}

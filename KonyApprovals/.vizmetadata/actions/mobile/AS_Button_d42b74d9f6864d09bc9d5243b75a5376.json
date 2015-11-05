@@ -1,0 +1,13 @@
+{
+	"AS_Button_d42b74d9f6864d09bc9d5243b75a5376": {
+		"id": "AS_Button_d42b74d9f6864d09bc9d5243b75a5376",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_ab45a574d65d475f831e47ebb58503ea",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "configureLayerKA();"
+			}
+		]
+	}
+}

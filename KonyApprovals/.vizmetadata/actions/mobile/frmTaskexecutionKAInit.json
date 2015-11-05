@@ -1,0 +1,14 @@
+{
+	"AS_Form_48d1d011a022422c92a5abfb46ce1747": {
+		"id": "AS_Form_48d1d011a022422c92a5abfb46ce1747",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmTaskexecutionKAInit",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_9f4ace93624b4b58a7b54cf91efa77e6",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var taskDetailsKA = function(){\n      frmTaskDetailsKA.show();\n};\n\nvar taskResourcesKA = function(){\n                frmTaskResourcesKA.show();\n}\n\nvar attachmentKA = function(){\n  \tfrmOrderAttachmentsKA.show();\n                 \n}\n\n\n\nvar widgets=[\n\n{\"src\" : \"notification_execution_details.png\",\"ontouch\":taskDetailsKA},\n{\"src\" : \"notification_execution_attachments.png\",\"ontouch\":attachmentKA},\n{\"src\" : \"bf_resources.png\",\"ontouch\":taskResourcesKA},\n\n];\n  \naddToScroll(frmTaskExecutionKA,\"flxScrollTypesKA\",widgets);"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"AS_Segment_52dcc2836ca5402f89ed00b22710ea38": {
+		"id": "AS_Segment_52dcc2836ca5402f89ed00b22710ea38",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__fefbe25b6b61475596b56450b2192431",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "\nvar segment = frmPurchaseOrderlListKA.segOrderListKA.selectedRowIndex[0];\nvar row = frmPurchaseOrderlListKA.segOrderListKA.selectedRowIndex[1];\n//alert(frmPurchaseOrderlListKA.segOrderListKA.selectedItems[0].lblTitleKA);\npo_number = frmPurchaseOrderlListKA.segOrderListKA.selectedItems[0].lblTitleKA;\ncreateOrderDetail(po_number);",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

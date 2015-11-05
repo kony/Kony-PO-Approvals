@@ -1,0 +1,15 @@
+{
+	"AS_Button_24ab3b9c9eae4665abbd45a862ab609f": {
+		"id": "AS_Button_24ab3b9c9eae4665abbd45a862ab609f",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmMyNotificationListKAViewOnClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_f9589ef3eb944fedab4028702621d972",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "be98e914391c4d78bdd7b9ed9ec5ccb8",
+				"parentId": ""
+			}
+		]
+	}
+}

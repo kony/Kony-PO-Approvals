@@ -1,0 +1,16 @@
+{
+	"AS_Button_096acfd6e72548cfa968c5f5dcd27a70": {
+		"id": "AS_Button_096acfd6e72548cfa968c5f5dcd27a70",
+		"type": "ACTION_SEQUENCE",
+		"name": "btnNotificationLogoutOnclick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_f6cf6a7f7bee4ef8b640f6fe45d5651e",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmLoginKA",
+				"formKUID": "b424309de7704338803a6a25d0c18bfb",
+				"parentId": ""
+			}
+		]
+	}
+}

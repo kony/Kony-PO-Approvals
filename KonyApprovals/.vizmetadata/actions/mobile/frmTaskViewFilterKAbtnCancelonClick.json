@@ -1,0 +1,15 @@
+{
+	"AS_Button_2c1d65a67823493b8941c92f5ac76323": {
+		"id": "AS_Button_2c1d65a67823493b8941c92f5ac76323",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmTaskViewFilterKAbtnCancelonClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_c5bfb875a5764d7cb636cb2cf1e17861",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "40414ed17801486a85e00c2cde5e8307",
+				"parentId": ""
+			}
+		]
+	}
+}

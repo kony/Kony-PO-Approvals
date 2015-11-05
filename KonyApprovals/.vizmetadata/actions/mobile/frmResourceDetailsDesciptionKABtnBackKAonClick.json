@@ -1,0 +1,14 @@
+{
+	"AS_Button_70b23c8b0789407a8ff806e6a8f0b2ed": {
+		"id": "AS_Button_70b23c8b0789407a8ff806e6a8f0b2ed",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmResourceDetailsDesciptionKABtnBackKAonClick",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_03440f3e40e34b0db567fe063fc1e5ab",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "kony.application.getPreviousForm().show();\n"
+			}
+		]
+	}
+}

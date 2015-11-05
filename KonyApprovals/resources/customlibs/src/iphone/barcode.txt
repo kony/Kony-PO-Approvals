@@ -1,0 +1,5 @@
+LibraryName: KXing.zip
+Namespace: barcode
+LuaMethodName: scanbarcode
+BindingName: barcode_scanbarcode_binding
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><appEvents><appservice><evtSequence><enabled>true</enabled><seqname></seqname></evtSequence></appservice><deeplink><evtSequence><enabled>true</enabled><seqname></seqname></evtSequence></deeplink><onsearch><evtSequence><enabled>true</enabled><seqname></seqname></evtSequence></onsearch><onviewstatechange><evtSequence><enabled>true</enabled><seqname></seqname></evtSequence></onviewstatechange><postappinit><evtSequence><actionList xsi:type="eventExpressionAction" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><enabled>true</enabled><name></name><type>5</type><expr></expr><exprMap><entry><key>js</key><value> kony.print("\n\n--post app init\n\n");
+ InstanceID = kony.store.getItem("InstanceID");
+ seghide=true;
+     kony.print("\n******** InstanceID**************--&gt;"+InstanceID);
+     if(InstanceID === null || InstanceID === ""){
+        onetimeSetup = true;
+        return frmUrl;
+     }
+     else{
+        onetimeSetup = false;
+        username = kony.store.getItem("username");
+        password = kony.store.getItem("password");
+        frmLoginKA.tbxCRMUserIDKA.text=username;
+		frmLoginKA.tbxCRMPasswordKA.text=password;
+		frmUrl.txtBoxUrl.text=InstanceID;
+		init();
+        return frmLoginKA;
+     }</value></entry></exprMap></actionList><actionList xsi:type="eventFunctionAction" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><enabled>false</enabled><name></name><type>6</type><functionName>None</functionName><functionNameMap><entry><key>js</key><value>preappinitfun</value></entry><entry><key>lua</key><value>None</value></entry></functionNameMap><paramDataMap><entry><key>js</key><value/></entry><entry><key>lua</key><value/></entry></paramDataMap></actionList><enabled>true</enabled><seqname></seqname></evtSequence></postappinit><preappinit><evtSequence><enabled>true</enabled><seqname></seqname></evtSequence></preappinit><settingsmenuitems><evtSequence><enabled>true</enabled><seqname></seqname></evtSequence></settingsmenuitems></appEvents>

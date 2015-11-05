@@ -1,0 +1,14 @@
+{
+	"AS_Button_2854093eab7e4a148488e88e4fd4b39b": {
+		"id": "AS_Button_2854093eab7e4a148488e88e4fd4b39b",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderListKABtnMapOnClick",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_ebda88ea9e504f809fa6e5b754c9a398",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmOrderListKA.btnMapShowKA.skin=sknBtnFFFFFFClanProNews28BackgroundFF5D6EKA\nfrmOrderListKA.btnListOrderKA.skin=sknBtnFF5D6EClanProNews28BackgroundFFFFFFKA\nfrmOrderListKA.segOrderListKA.setVisibility(false);\nfrmOrderListKA.mapMyOrderListKA.setVisibility(true);"
+			}
+		]
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"AS_Image_cf997d4edec54f4ba597584c81104b13": {
+		"id": "AS_Image_cf997d4edec54f4ba597584c81104b13",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmContactDetailsSendEmailaKA",
+		"actions": [
+			{
+				"id": "SEND_EMAIL_onTouchStart_4f85cd308bdc4da9ab9a0d8a76810ddd",
+				"type": "SEND_EMAIL",
+				"torecipients": [
+					"alekhya.oruganti@kony.com"
+				],
+				"ccrecipients": [
+					""
+				],
+				"bccrecipients": [
+					""
+				],
+				"messagebody": "Hi,\n\nYour order has been placed.\n\nRegards,\nAmrita.",
+				"subject": "Order",
+				"ismessagebodyhtml": true
+			}
+		]
+	}
+}

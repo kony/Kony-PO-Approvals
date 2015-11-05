@@ -1,0 +1,8 @@
+{
+	"AS_FlexContainer_70f786f05cf7456f871bbc558eac6923": {
+		"id": "AS_FlexContainer_70f786f05cf7456f871bbc558eac6923",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderDetailFlexDescriptionOnTouch",
+		"actions": []
+	}
+}

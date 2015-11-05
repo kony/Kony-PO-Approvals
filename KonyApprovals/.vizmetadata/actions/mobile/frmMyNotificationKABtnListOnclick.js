@@ -1,0 +1,10 @@
+function frmMyNotificationKABtnListOnclick() {
+return AS_Button_c0457ce42026499bbb5283c9a4db8635();
+}
+function AS_Button_c0457ce42026499bbb5283c9a4db8635() {
+frmMyNotificationListKA.btnMapShowKA.skin=sknBtnFF5D6EClanProNews28BackgroundFFFFFFKA;
+frmMyNotificationListKA.btnListNotificationsKA.skin=sknBtnFFFFFFClanProNews28BackgroundFF5D6EKA;
+frmMyNotificationListKA.segNotificationsListKA.setVisibility(true);
+frmMyNotificationListKA.mapMyNotificationsListKA.setVisibility(false);
+
+}

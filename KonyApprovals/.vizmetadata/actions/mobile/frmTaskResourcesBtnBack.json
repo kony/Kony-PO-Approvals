@@ -1,0 +1,15 @@
+{
+	"AS_Button_532df31cb50347cc95b5f2d0256544e8": {
+		"id": "AS_Button_532df31cb50347cc95b5f2d0256544e8",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmTaskResourcesBtnBack",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_175f2b4fe5cd4a53aa307765d9f651e6",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "df173b7971b041e0a4edb7e1a7013c4e",
+				"parentId": ""
+			}
+		]
+	}
+}

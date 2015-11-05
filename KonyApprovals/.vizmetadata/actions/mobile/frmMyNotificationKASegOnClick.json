@@ -1,0 +1,15 @@
+{
+	"AS_Segment_ac5e00bc995545199204f262cbaf3cbe": {
+		"id": "AS_Segment_ac5e00bc995545199204f262cbaf3cbe",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmMyNotificationKASegOnClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onRowClick_7ed4c5c511214bc1b737ab6323d44543",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "c1b15012f7fc42d6b201c1aa22247031",
+				"parentId": ""
+			}
+		]
+	}
+}

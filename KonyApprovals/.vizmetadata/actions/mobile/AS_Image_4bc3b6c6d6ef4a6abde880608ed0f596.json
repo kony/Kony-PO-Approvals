@@ -1,0 +1,15 @@
+{
+	"AS_Image_4bc3b6c6d6ef4a6abde880608ed0f596": {
+		"id": "AS_Image_4bc3b6c6d6ef4a6abde880608ed0f596",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchEnd_58870c5bda7049eaabaf264e29557d5e",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmItemDetailsKAA",
+				"formKUID": "206088a7b40045fbba25b667b4ec3711",
+				"parentId": ""
+			}
+		]
+	}
+}

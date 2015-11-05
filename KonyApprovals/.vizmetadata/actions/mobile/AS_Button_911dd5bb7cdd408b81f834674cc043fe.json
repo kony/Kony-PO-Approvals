@@ -1,0 +1,14 @@
+{
+	"AS_Button_911dd5bb7cdd408b81f834674cc043fe": {
+		"id": "AS_Button_911dd5bb7cdd408b81f834674cc043fe",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_57d7ef29c88a4b11af4d16285e25525f",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "approvePO();",
+				"callbackType": null
+			}
+		]
+	}
+}

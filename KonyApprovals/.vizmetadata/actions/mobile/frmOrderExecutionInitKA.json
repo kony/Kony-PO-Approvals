@@ -1,0 +1,14 @@
+{
+	"AS_Form_1c681e4f8c114bc4a664cf1d65735a52": {
+		"id": "AS_Form_1c681e4f8c114bc4a664cf1d65735a52",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderExecutionInitKA",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_ab02e0aa19774ce1a70211876e3a88c7",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var orderDetailsKA = function(){\n      frmOrderDetailsKA.show();\n};\n\nvar orderAttachmentsKA = function(){\n                frmOrderAttachmentsKA.show();\n}\n\nvar orderResourcesKA = function(){\n                 frmOrderResourcesListKA.show();\n}\n\nvar orderHistoryKA = function(){\n                alert(\"Page loading..!!\");\n}\nvar orderNotificationKA = function(){\n                alert(\"Page loading..!!\");\n}\n\nvar widgets=[\n{\"src\" : \"notification_execution_details.png\",\"ontouch\":orderDetailsKA},\n{\"src\" : \"notification_execution_attachments.png\",\"ontouch\":orderAttachmentsKA},\n{\"src\" : \"bf_order_ex_history.png\",\"ontouch\":orderHistoryKA},\n{\"src\" : \"bf_resources.png\",\"ontouch\":orderResourcesKA},\n{\"src\" : \"notification_execution_photos.png\",\"ontouch\":orderNotificationKA}\n];\n\n\n\naddToScroll(frmOrderExecutionKA,\"flxScrollTypesKA\",widgets);"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"AS_Button_4491123f86b24e41b74e1080f8dfe7a7": {
+		"id": "AS_Button_4491123f86b24e41b74e1080f8dfe7a7",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmLoginBtnLoginOnclick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_9d5ddcf439b74d1d80a54002a054cef7",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "3461b2f321504312ac790163c798a28b",
+				"parentId": ""
+			}
+		]
+	}
+}

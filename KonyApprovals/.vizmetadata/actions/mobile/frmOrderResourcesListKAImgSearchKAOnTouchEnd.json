@@ -1,0 +1,15 @@
+{
+	"AS_Image_9168c32e1008420da979b2f632e1f8bc": {
+		"id": "AS_Image_9168c32e1008420da979b2f632e1f8bc",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderResourcesListKAImgSearchKAOnTouchEnd",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchEnd_bb14989f2f634496a7f6a92f5cfbca27",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "07cf755dccf94e5faf810788d8afd8b9",
+				"parentId": ""
+			}
+		]
+	}
+}

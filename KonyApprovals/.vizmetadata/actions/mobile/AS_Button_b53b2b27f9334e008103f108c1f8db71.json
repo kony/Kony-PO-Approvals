@@ -1,0 +1,13 @@
+{
+	"AS_Button_b53b2b27f9334e008103f108c1f8db71": {
+		"id": "AS_Button_b53b2b27f9334e008103f108c1f8db71",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_8c99e314799c4a02bd2fead2a749e295",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmOrderListKA.segOrderListKA.setVisibility(false);\nfrmOrderListKA.mapMyOrderListKA.setVisibility(true);"
+			}
+		]
+	}
+}

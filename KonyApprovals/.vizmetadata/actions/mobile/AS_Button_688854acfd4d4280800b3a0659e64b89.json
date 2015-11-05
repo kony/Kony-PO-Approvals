@@ -1,0 +1,14 @@
+{
+	"AS_Button_688854acfd4d4280800b3a0659e64b89": {
+		"id": "AS_Button_688854acfd4d4280800b3a0659e64b89",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmHamburgerMenuKA_onClick_e49464f28f68424bb733fc89f3d76e90",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "88249934fb94420b828413799af2c938",
+				"parentId": ""
+			}
+		]
+	}
+}

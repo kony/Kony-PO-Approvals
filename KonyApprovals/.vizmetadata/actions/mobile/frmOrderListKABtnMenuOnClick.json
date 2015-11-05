@@ -1,0 +1,14 @@
+{
+	"AS_Button_735a581f418a4eb98a338edc07554b34": {
+		"id": "AS_Button_735a581f418a4eb98a338edc07554b34",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrderListKABtnMenuOnClick",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_92f6eb66f1c340b2b755cd3d1f30cf57",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "showHideHamburgerMenuKA();"
+			}
+		]
+	}
+}

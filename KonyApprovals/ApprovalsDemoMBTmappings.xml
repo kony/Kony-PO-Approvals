@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="ApprovalsDemoMBT" name="ApprovalsDemoMBT">
+    <container isflex="false" displayname="Popup" id="tmpApprovalListKA" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpItemAttributeTemplate" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpMyOrderHeader" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpMyOrderHeaderKA" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpNotificationsListKA" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpOrderExecutionHeader" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpOrderExecutionHeaderKA" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpRequestExecutionKA" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpSecHeaderKA" type="dialog"/>
+    <container isflex="false" displayname="Form" id="frmItemDetailsKA" type="form"/>
+    <container isflex="false" displayname="Form" id="frmLoginKA" type="form">
+        <component displayname="TextBox2" id="tbxCRMUserIDKA" type="textbox2"/>
+        <component displayname="TextBox2" id="tbxCRMPasswordKA" type="textbox2"/>
+        <component displayname="TextBox2" id="txtUrl" type="textbox2"/>
+    </container>
+    <container isflex="false" displayname="Form" id="frmPurchaseOrderlListKA" type="form"/>
+    <container isflex="false" displayname="Form" id="frmRequestExecutionKA" type="form"/>
+    <container isflex="false" displayname="Form" id="frmScan" type="form"/>
+    <container isflex="false" displayname="Form" id="frmTenantKA" type="form">
+        <component displayname="TextBox2" id="tbxCRMTenantNameKA" type="textbox2"/>
+        <component displayname="TextBox2" id="tbxCRMTenantURLKA" type="textbox2"/>
+    </container>
+    <container isflex="false" displayname="Form" id="frmUrl" type="form">
+        <component displayname="TextBox2" id="txtBoxUrl" type="textbox2"/>
+    </container>
+    <container isflex="false" displayname="Form" id="frmseg" type="form"/>
+    <container isflex="false" displayname="Popup" id="popupConfirm" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="popupFailureConfirm" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="popupSuccesConfirm" type="dialog"/>
+    <globalsequences/>
+    <skins/>
+</application>

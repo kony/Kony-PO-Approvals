@@ -1,0 +1,15 @@
+{
+	"AS_Button_9ef11ad23b0448b1aafc7138c209e4a6": {
+		"id": "AS_Button_9ef11ad23b0448b1aafc7138c209e4a6",
+		"type": "ACTION_SEQUENCE",
+		"name": "frmOrdersViewsKABtnCancelKAOnClick",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_10bb47bdc68049f5b109ee6e90a8d651",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "3461b2f321504312ac790163c798a28b",
+				"parentId": ""
+			}
+		]
+	}
+}

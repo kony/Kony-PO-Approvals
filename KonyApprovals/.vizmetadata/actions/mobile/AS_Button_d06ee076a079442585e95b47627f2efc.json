@@ -1,0 +1,15 @@
+{
+	"AS_Button_d06ee076a079442585e95b47627f2efc": {
+		"id": "AS_Button_d06ee076a079442585e95b47627f2efc",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__2d66f43bce394c3799e98052bef80c76",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "logon();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}
